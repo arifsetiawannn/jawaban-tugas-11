@@ -69,14 +69,7 @@ else{
  <p style="text-align: center; color: yellow;"> &copy;arif setiawan 2021</p>
 </footer>
 </html>
-<?php 
-/*
-halaman ini dibuat oleh arif setiawan,
-tanggal 31 mei sampai 1 mei 2021.!!!!
 
- */
-
- ?>
 
 
 

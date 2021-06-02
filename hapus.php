@@ -31,12 +31,3 @@ else{
 	
 }
 ?>
-
-<?php 
-/*
-halaman ini dibuat oleh eri yulian hidayat,
-tanggal 31 mei sampai 1 mei 2021.!!!!
-
- */
-
- ?>

@@ -67,7 +67,7 @@
 </center>
 </body>
 <footer >
- <p style="text-align: center; color: yellow;"> &copy;Eri Yulian Hidayat 2021</p>
+ <p style="text-align: center; color: yellow;"> &copy;Arif Setiawan</p>
 </footer>
 </html>
 <?php 

@@ -123,9 +123,3 @@ document.location.href = 'ubah.php';
 
 
  ?>
-
-
-
-
-
-

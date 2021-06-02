@@ -69,8 +69,3 @@ else{
  <p style="text-align: center; color: yellow;"> &copy;arif setiawan 2021</p>
 </footer>
 </html>
-
-
-
-
-

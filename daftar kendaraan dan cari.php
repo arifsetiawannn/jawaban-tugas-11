@@ -66,6 +66,6 @@ else{
 </table>
 </body>
 <footer >
- <p style="text-align: center; color: yellow;"> &copy;arif setiawan 2021</p>
+ <p style="text-align: center; color: yellow;"> &copy;Arif Setiawan</p>
 </footer>
 </html>
